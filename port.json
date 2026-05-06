@@ -1,0 +1,13 @@
+{
+  "identifier": "walmart-payments",
+  "title": "Payment Service",
+  "blueprint": "service",
+  "properties": {
+    "lifecycle": "production",
+    "criticality": "critical",
+    "slack_channel": "#payments"
+  },
+  "relations": {
+    "depends_on": []
+  }
+}
