@@ -1,3 +1,2 @@
 # Payment gRPC service (Node.js) — payment authorization simulation.
-# Ownership transferred to Platform SRE — Q3 2026 org restructuring.
-*   @wallmart-poc/platform-sre
+*   @wallmart-poc/payments
