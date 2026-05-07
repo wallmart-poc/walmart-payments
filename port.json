@@ -5,7 +5,7 @@
   "properties": {
     "lifecycle": "production",
     "criticality": "critical",
-    "slack_channel": "#payments",
+    "slack_channel": "#platform-sre",
     "type": "grpc",
     "tier": "backend",
     "language": "Node.js",
