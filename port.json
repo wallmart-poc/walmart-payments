@@ -1,0 +1,17 @@
+{
+  "identifier": "walmart-payments",
+  "title": "Payment Service",
+  "blueprint": "service",
+  "properties": {
+    "lifecycle": "production",
+    "criticality": "critical",
+    "slack_channel": "#payments",
+    "type": "grpc",
+    "tier": "backend",
+    "language": "Node.js",
+    "region": ["us-east-1", "us-west-2"]
+  },
+  "relations": {
+    "depends_on": []
+  }
+}
